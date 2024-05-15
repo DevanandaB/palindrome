@@ -1,0 +1,51 @@
+body {
+    background-color: #C3B1E1;
+    background-image: url(https://gifdb.com/images/high/lavender-cartoon-clouds-background-u7w65rqbor29e7wi.gif);
+    background-size: cover;
+    text-align: center;
+  }
+  
+  h1 {
+    font-family: fantasy;
+    color: purple;
+    text-align: center;
+    font-size: 3rem;
+  }
+  
+  button {
+    background-color: #800080;
+    color: white;
+      height: 35px;
+      width: 70px;
+      margin-left: 3px;
+      font-size: 1rem;
+  }
+  
+  button:hover {
+    background-color: pink; 
+  }
+  
+  button:active {
+    background-color: #C3B1E1;
+  }
+  
+  #text-input {
+    height: 39px;
+    width: 300px;
+  }
+  
+  #result {
+    color: purple;
+    font-size: 2rem;
+    margin-left: 150px;
+    margin-top: 50px;
+    font-family: cursive;
+    font-weight: bold;
+  }
+  
+  footer {
+    color: purple;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+  }
